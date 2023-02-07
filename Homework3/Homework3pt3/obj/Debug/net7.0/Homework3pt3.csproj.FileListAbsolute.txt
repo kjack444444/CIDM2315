@@ -1,0 +1,15 @@
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\bin\Debug\net7.0\Homework3pt3.exe
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\bin\Debug\net7.0\Homework3pt3.deps.json
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\bin\Debug\net7.0\Homework3pt3.runtimeconfig.json
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\bin\Debug\net7.0\Homework3pt3.dll
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\bin\Debug\net7.0\Homework3pt3.pdb
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\Homework3pt3.csproj.AssemblyReference.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\Homework3pt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\Homework3pt3.AssemblyInfoInputs.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\Homework3pt3.AssemblyInfo.cs
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\Homework3pt3.csproj.CoreCompileInputs.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\Homework3pt3.dll
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\refint\Homework3pt3.dll
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\Homework3pt3.pdb
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\Homework3pt3.genruntimeconfig.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\Homework3pt3\obj\Debug\net7.0\ref\Homework3pt3.dll
