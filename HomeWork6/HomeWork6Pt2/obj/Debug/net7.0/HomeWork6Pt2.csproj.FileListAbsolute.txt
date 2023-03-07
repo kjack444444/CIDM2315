@@ -1,0 +1,15 @@
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\bin\Debug\net7.0\HomeWork6Pt2.exe
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\bin\Debug\net7.0\HomeWork6Pt2.deps.json
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\bin\Debug\net7.0\HomeWork6Pt2.runtimeconfig.json
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\bin\Debug\net7.0\HomeWork6Pt2.dll
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\bin\Debug\net7.0\HomeWork6Pt2.pdb
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\HomeWork6Pt2.csproj.AssemblyReference.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\HomeWork6Pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\HomeWork6Pt2.AssemblyInfoInputs.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\HomeWork6Pt2.AssemblyInfo.cs
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\HomeWork6Pt2.csproj.CoreCompileInputs.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\HomeWork6Pt2.dll
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\refint\HomeWork6Pt2.dll
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\HomeWork6Pt2.pdb
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\HomeWork6Pt2.genruntimeconfig.cache
+C:\Users\kyler\OneDrive\Desktop\CIDM2315\HomeWork6Pt2\obj\Debug\net7.0\ref\HomeWork6Pt2.dll
